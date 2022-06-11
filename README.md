@@ -2,7 +2,7 @@
 
 The following Repository Displays the use of five point Summary and as well as mean and mode using the Pandas and Numpy library with the help of *linnerud dataset* which is an inbuilt dataset in sklearn library. We have used Google colab for the illustration purpose.
 
-#What is Five Point Summarization?
+# What is Five Point Summarization?
 Five Point Summarization is used to measure the spread of data using the five measures of calculation. It can also be reffered to as the partition of attribute into five parts which are as below:
 
 1. min- Indicates minimum value of attribute.
@@ -11,7 +11,7 @@ Five Point Summarization is used to measure the spread of data using the five me
 4. 75%- Indicates value below which 75% of data values exists.
 5. max-indicates maximum value of attribute.
 
-#Python Code Explanation
+# Python Code Explanation
 We have implemnted five point summarization in the python programming language with the help of modeules indicated below:
 
 1. Pandas- To perform DataFrame Operations.
